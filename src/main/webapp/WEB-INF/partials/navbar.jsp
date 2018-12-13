@@ -7,3 +7,4 @@
         <li> <a href="/"> Home </a></li>
     </ul>
 </div>
+<hr>
