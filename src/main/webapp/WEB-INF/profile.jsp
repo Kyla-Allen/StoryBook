@@ -4,9 +4,9 @@
 <jsp:include page="partials/head.jsp"/>
 <body>
 
-    <jsp:include page="partials/navbar.jsp"/>
-    <h1> Test </h1>
-    <jsp:include page="partials/footer.jsp"/>
+<jsp:include page="partials/navbar.jsp"/>
+<h1> Profile </h1>
+<jsp:include page="partials/footer.jsp"/>
 
 
 
